@@ -3,24 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "^3.0.1",
     "tachyons": "^4.11.1"
-=======
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-scripts": "^3.0.1",
-    "tachyons": "^4.9.0"
->>>>>>> 861237bc27d44b8da3cdfa95cef730328ac89898
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-<<<<<<< HEAD
   },
   "browserslist": {
     "production": [
@@ -33,7 +25,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-=======
->>>>>>> 861237bc27d44b8da3cdfa95cef730328ac89898
   }
 }
